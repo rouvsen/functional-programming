@@ -1,4 +1,4 @@
-package org.example;
+package org.example.stream_withlambda;
 
 import java.util.Arrays;
 
